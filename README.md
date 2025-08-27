@@ -1,4 +1,4 @@
-[![official project](https://jb.gg/badges/official-flat-square.svg)](https://github.com/JetBrains)
+[![official project](https://jb.gg/badges/official-flat-square.svg)][def]
 
 # JetBrains Guide
 
@@ -22,3 +22,6 @@ See the [LICENSE.txt](LICENSE.txt) file for the detail.
 
 When non-JetBrains contributor join, they needed to acknowledge consent by
 adding a comment on [the ticket](https://github.com/JetBrains/guide/issues/7) in the repository.
+
+
+[def]: https://github.com/JetBrains
